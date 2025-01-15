@@ -165,7 +165,7 @@ page = """
 
 <h4> We will predict the demand of bike based on various atmospheric conditions. I used HistGradientRegressor and tried to fine-tune using GridSearchCV </h4>
 
-<a href = "">Link to GitHub repository</a>
+<a href = "https://github.com/ArjunTewari/Seoul_Bike_Data.git">Link to GitHub repository</a>
 
 <h6> Here is a sample of the dataset, It is a kaggle dataset. </h6>
 
